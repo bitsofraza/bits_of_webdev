@@ -5,8 +5,10 @@
 }
 .nav{
     width: 100%;
-    box-shadow:1px 2px 1px #eee ;
-    padding-bottom: 10px;  
+    box-shadow:2px 1px 2px #eee ;
+    padding-bottom: 5px;  
+    width: 100%;
+    position: fixed;
 }
 .navbar{
     margin-left:100px;
@@ -34,7 +36,7 @@
     width: 50vw;
     padding-left: 12vh;
     padding-right: 12vh;
-    padding-top: 14vh;
+    padding-top: 20vh;
 }
 .hero-text{
     display: flex;
